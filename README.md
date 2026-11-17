@@ -28,6 +28,10 @@
 ## 📱 App Screenshots
 <p align="center">
   <img src="assets/images/screenshot1.jpeg" width="220" alt="Screenshot 1" />
+  <img src="assets/images/screenshot31.jpeg" width="220" alt="Screenshot 31" />
+  <img src="assets/images/screenshot32.jpeg" width="220" alt="Screenshot 32" />
+  <img src="assets/images/screenshot33.jpeg" width="220" alt="Screenshot 33" />
+  <img src="assets/images/screenshot34.jpeg" width="220" alt="Screenshot 34" />
   <img src="assets/images/screenshot2.jpeg" width="220" alt="Screenshot 2" />
   <img src="assets/images/screenshot3.jpeg" width="220" alt="Screenshot 3" />
   <img src="assets/images/screenshot4.jpeg" width="220" alt="Screenshot 4" />
@@ -47,20 +51,17 @@
   <img src="assets/images/screenshot18.jpeg" width="220" alt="Screenshot 18" />
   <img src="assets/images/screenshot19.jpeg" width="220" alt="Screenshot 19" />
   <img src="assets/images/screenshot20.jpeg" width="220" alt="Screenshot 20" />
-  <img src="assets/images/screenshot10.jpeg" width="220" alt="Screenshot 21" />
-  <img src="assets/images/screenshot11.jpeg" width="220" alt="Screenshot 22" />
-  <img src="assets/images/screenshot12.jpeg" width="220" alt="Screenshot 23" />
-  <img src="assets/images/screenshot13.jpeg" width="220" alt="Screenshot 24" />
-  <img src="assets/images/screenshot14.jpeg" width="220" alt="Screenshot 25" />
-  <img src="assets/images/screenshot15.jpeg" width="220" alt="Screenshot 26" />
-  <img src="assets/images/screenshot16.jpeg" width="220" alt="Screenshot 27" />
-  <img src="assets/images/screenshot17.jpeg" width="220" alt="Screenshot 28" />
-  <img src="assets/images/screenshot18.jpeg" width="220" alt="Screenshot 29" />
-  <img src="assets/images/screenshot19.jpeg" width="220" alt="Screenshot 30" />
-  <img src="assets/images/screenshot20.jpeg" width="220" alt="Screenshot 31" />
-  <img src="assets/images/screenshot19.jpeg" width="220" alt="Screenshot 32" />
-  <img src="assets/images/screenshot20.jpeg" width="220" alt="Screenshot 33" />
-  <img src="assets/images/screenshot19.jpeg" width="220" alt="Screenshot 34" />
+  <img src="assets/images/screenshot21.jpeg" width="220" alt="Screenshot 21" />
+  <img src="assets/images/screenshot22.jpeg" width="220" alt="Screenshot 22" />
+  <img src="assets/images/screenshot23.jpeg" width="220" alt="Screenshot 23" />
+  <img src="assets/images/screenshot24.jpeg" width="220" alt="Screenshot 24" />
+  <img src="assets/images/screenshot25.jpeg" width="220" alt="Screenshot 25" />
+  <img src="assets/images/screenshot26.jpeg" width="220" alt="Screenshot 26" />
+  <img src="assets/images/screenshot27.jpeg" width="220" alt="Screenshot 27" />
+  <img src="assets/images/screenshot28.jpeg" width="220" alt="Screenshot 28" />
+  <img src="assets/images/screenshot29.jpeg" width="220" alt="Screenshot 29" />
+  <img src="assets/images/screenshot30.jpeg" width="220" alt="Screenshot 30" />
+
 </p>
 <p align="center">
   <em>(Featuring a comprehensive UI gallery with over 30+ screens inside the assets folder)</em>
