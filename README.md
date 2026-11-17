@@ -28,7 +28,6 @@
 ## 📱 App Screenshots
 <p align="center">
   <img src="assets/images/screenshot1.jpeg" width="220" alt="Screenshot 1" />
-  <img src="assets/images/screenshot31.jpeg" width="220" alt="Screenshot 31" />
   <img src="assets/images/screenshot32.jpeg" width="220" alt="Screenshot 32" />
   <img src="assets/images/screenshot33.jpeg" width="220" alt="Screenshot 33" />
   <img src="assets/images/screenshot34.jpeg" width="220" alt="Screenshot 34" />
@@ -61,6 +60,7 @@
   <img src="assets/images/screenshot28.jpeg" width="220" alt="Screenshot 28" />
   <img src="assets/images/screenshot29.jpeg" width="220" alt="Screenshot 29" />
   <img src="assets/images/screenshot30.jpeg" width="220" alt="Screenshot 30" />
+  <img src="assets/images/screenshot31.jpeg" width="220" alt="Screenshot 31" />
 
 </p>
 <p align="center">
