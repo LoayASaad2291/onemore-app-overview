@@ -58,6 +58,9 @@
   <img src="assets/images/screenshot18.jpeg" width="220" alt="Screenshot 29" />
   <img src="assets/images/screenshot19.jpeg" width="220" alt="Screenshot 30" />
   <img src="assets/images/screenshot20.jpeg" width="220" alt="Screenshot 31" />
+  <img src="assets/images/screenshot19.jpeg" width="220" alt="Screenshot 32" />
+  <img src="assets/images/screenshot20.jpeg" width="220" alt="Screenshot 33" />
+  <img src="assets/images/screenshot19.jpeg" width="220" alt="Screenshot 34" />
 </p>
 <p align="center">
   <em>(Featuring a comprehensive UI gallery with over 30+ screens inside the assets folder)</em>
